@@ -41,10 +41,10 @@ The project involved creating a **Retail Sales Dashboard** to analyze and visual
 - Designing charts and graphs to represent trends, comparisons, and metrics effectively.
 - Implementing slicers and conditional formatting for interactivity.
 
-![Visauals Connected with Pivot tables](https://github.com/user-attachments/assets/f0d3407e-6013-4746-84a8-ffb98eab6a49)
+![Creating_Pivot_Table](https://github.com/user-attachments/assets/03375881-3890-4f57-b823-174388b33054)
 
 
-## Insights and Explanation of the Retail Sales Dashboard:
+# Explanation and Insights of the Retail Sales Dashboard:
 
 ![Retail_Sales_Performance_Dashboard](https://github.com/user-attachments/assets/b91259d4-6e7c-489b-b75e-e07e35ad34dc)
 

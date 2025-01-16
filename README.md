@@ -4,6 +4,9 @@
 
 The project involved creating a **Retail Sales Dashboard** to analyze and visualize key business metrics using advanced Excel tools like **Power Query**, **Power Pivot**, and **DAX**. The dashboard highlights performance trends, profitability, customer satisfaction, and operational efficiency, enabling stakeholders to make data-driven decisions.
 
+### **Project Objective**
+<a href = "Retail_Sales_Dataset.xlsx"> Retail Sales Dataset</a>
+
 ## **Project Objective**
 
 1. **Streamline Data Analysis**: Clean, transform, and model large datasets for accurate and efficient reporting.

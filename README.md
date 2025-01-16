@@ -19,22 +19,35 @@ The project involved creating a **Retail Sales Dashboard** to analyze and visual
 - Splitting columns for detailed analysis.
 - Loading data into the data model efficiently.
 
+![Load_into_Connections](https://github.com/user-attachments/assets/dab6925d-38ba-4608-818a-dd91ec2d6ad6)
+
 **Power Pivot:**
 
 - Establishing relationships in a data model.
 - Managing large datasets within Excel's memory constraints.
+
+![Data_Modeling](https://github.com/user-attachments/assets/25b28c5a-74f8-4113-90e4-8d0e40b7cd4f)
+
 
 **DAX (Data Analysis Expressions):**
 
 - Creating measures for calculations like total sales and quantity sold.
 - Optimizing performance with calculated columns sparingly.
 
+![Creating Dax Measure](https://github.com/user-attachments/assets/0170bbfd-5ff0-4abb-bcca-b4120731608a)
+
 **Data Visualization:**
 
 - Designing charts and graphs to represent trends, comparisons, and metrics effectively.
 - Implementing slicers and conditional formatting for interactivity.
 
+![Visauals Connected with Pivot tables](https://github.com/user-attachments/assets/f0d3407e-6013-4746-84a8-ffb98eab6a49)
+
+
 ## Insights and Explanation of the Retail Sales Dashboard:
+
+![Retail_Sales_Performance_Dashboard](https://github.com/user-attachments/assets/b91259d4-6e7c-489b-b75e-e07e35ad34dc)
+
 
 ### **Visual Elements Used**:
 

@@ -49,7 +49,7 @@ The project involved creating a **Retail Sales Dashboard** to analyze and visual
 
 # Explanation and Insights of the Retail Sales Dashboard:
 
-![image](https://github.com/user-attachments/assets/b3d57885-8174-44f7-bba2-7789ab80783b)
+![image](https://github.com/user-attachments/assets/8498547b-a751-407f-ae3d-06de1d993ef8)
 
 ### **Visual Elements Used**:
 
